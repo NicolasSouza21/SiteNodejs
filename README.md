@@ -354,3 +354,35 @@ Aqui está uma estrutura possível para o cronograma, dividindo o tempo total de
 ### **Marco Importante**
 - **Final do Mês 6:** Lançamento do MVP.
 - **Final do Mês 9:** Lançamento da versão final do BookProgress.
+
+## 7. Diagramas 
+  ### Diagrama de Classe
+  <div align="center">
+    <img src="/imgs/Diagrama de Classe BookProgress.png">
+  </div>
+
+### Diagrama de Fluxo
+  <div align="center">
+    <img src="/imgs/Diagrama de Fluxo BookProgress.png">
+  </div>
+
+### Diagrama de Uso
+  <div align="center">
+    <img src="/imgs/Diagrama de Uso BookProgress.png">
+  </div>
+
+## 8. Protótipos
+  ### Baixa Fidelidade
+  <div align="center">
+    <img src="/imgs/BaixaFidelidade.png">
+  </div>
+
+  ### Média Fidelidade
+  <div align="center">
+    <img src="/imgs/MediaFidelidade.png">
+  </div>
+
+  ### Alta Fidelidade
+  <div align="center">
+    <img src="/imgs/AltaFidelidade.png">
+  </div>
